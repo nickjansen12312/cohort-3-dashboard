@@ -1,5 +1,5 @@
 ---
-name: 'defintion Of Ready'
+name: 'Defintion Of Ready'
 about: 'describes when a story is ready'
 title: '[Request]'
 labels: ''
