@@ -1,3 +1,12 @@
+---
+name: 'defintion Of Ready'
+about: 'describes when a story is ready'
+title: '[Request]'
+labels: ''
+assignees: ''
+
+---
+
 ### Prerequisites
 
 * [ ] Steps are written out
