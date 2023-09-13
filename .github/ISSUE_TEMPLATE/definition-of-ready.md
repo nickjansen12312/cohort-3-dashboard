@@ -1,6 +1,6 @@
 ---
 name: 'Defintion Of Ready'
-about: 'describes when a story is ready'
+about: 'Describes when a story is ready'
 title: '[Request]'
 labels: ''
 assignees: ''
