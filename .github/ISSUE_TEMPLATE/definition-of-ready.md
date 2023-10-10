@@ -1,3 +1,4 @@
+---
 name: 'Defintion Of Ready'
 about: 'Describes when a story is ready'
 title: 'As a [____], [____]'
